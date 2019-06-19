@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/account" android:title="Edit My Account"></item>
+    <item android:id="@+id/request" android:title="View My Requests"></item>
+    <item android:id="@+id/schedule" android:title="Waste Collection Schedule"></item>
+    <item android:id="@+id/history" android:title="Waste Disposal History"></item>
+</menu>
